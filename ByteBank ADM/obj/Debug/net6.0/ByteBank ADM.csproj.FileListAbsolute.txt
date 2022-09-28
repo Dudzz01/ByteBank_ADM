@@ -1,0 +1,15 @@
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\bin\Debug\net6.0\ByteBank ADM.exe
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\bin\Debug\net6.0\ByteBank ADM.deps.json
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\bin\Debug\net6.0\ByteBank ADM.runtimeconfig.json
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\bin\Debug\net6.0\ByteBank ADM.dll
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\bin\Debug\net6.0\ByteBank ADM.pdb
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\ByteBank ADM.csproj.AssemblyReference.cache
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\ByteBank ADM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\ByteBank ADM.AssemblyInfoInputs.cache
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\ByteBank ADM.AssemblyInfo.cs
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\ByteBank ADM.csproj.CoreCompileInputs.cache
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\ByteBank ADM.dll
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\refint\ByteBank ADM.dll
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\ByteBank ADM.pdb
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\ByteBank ADM.genruntimeconfig.cache
+D:\Projetos CSHARP\ByteBank ADM\ByteBank ADM\obj\Debug\net6.0\ref\ByteBank ADM.dll
